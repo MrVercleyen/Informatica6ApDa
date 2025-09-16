@@ -1,0 +1,19 @@
+.carousel-control-prev {
+  color: red;
+}
+
+#carouselExample {
+  max-width: 40%;
+  max-height: 50%;
+}
+
+.carousel-item img {
+  max-width: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
