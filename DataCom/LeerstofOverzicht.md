@@ -99,7 +99,7 @@ Een oplijsting van wat te kennen voor het examen van het eerste semester Datacom
   - Soorten casing
   - Blade system
   - Serverrack
-  - Server logs
+- Server logs
 - Domein
 - Permissions
 - Soorten Servers
