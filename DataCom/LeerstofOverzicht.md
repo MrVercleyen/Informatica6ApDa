@@ -81,7 +81,6 @@ Een oplijsting van wat te kennen voor het examen van het eerste semester Datacom
 - Router
 - WNAP
 - Beamforming
-- Repeater
 
 ## Servers
 
