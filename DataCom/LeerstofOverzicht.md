@@ -92,7 +92,7 @@ Een oplijsting van wat te kennen voor het examen van het eerste semester Datacom
   - Datadistributie vs datacollectie
 - Serverfarm
 - Datawarehouse
-- Batch
+- Bulkupdating
 - Hardware
   - Betrouwbaarheid
   - Processor
