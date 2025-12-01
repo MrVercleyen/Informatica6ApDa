@@ -81,7 +81,6 @@ Een oplijsting van wat te kennen voor het examen van het eerste semester Datacom
 - Router
 - WNAP
 - Beamforming
-- Repeater
 
 ## Servers
 
@@ -93,14 +92,14 @@ Een oplijsting van wat te kennen voor het examen van het eerste semester Datacom
   - Datadistributie vs datacollectie
 - Serverfarm
 - Datawarehouse
-- Batch
+- Bulkupdating
 - Hardware
   - Betrouwbaarheid
   - Processor
   - Soorten casing
   - Blade system
   - Serverrack
-  - Server logs
+- Server logs
 - Domein
 - Permissions
 - Soorten Servers
