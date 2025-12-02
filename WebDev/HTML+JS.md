@@ -352,6 +352,29 @@ Kijk maar eens naar de verschillende keycodes, voor elke toets op het toetsenbor
 
 [keycodeList](https://www.toptal.com/developers/keycode/table)
 
+## HTML-inhoud toevoegen aan een bestaand HTML-element
+
+Een veel gebruikte functionaliteit bij javascript is dat we HTML-code kunnen genereren en toevoegen aan een bestaand HTML-element.
+Stel dat we een lijst willen genereren en deze toevoegen aan een bestaande div in de HTML-pagina.
+
+In onderstaande code houden we een lijst van string bij en we willen deze afbeelden op onze HTML-pagina.
+Dit kunnen we doen door te itereren (loopen) over onze lijst en voor elk element een nieuw HTML-element aan te maken en deze te plaatsen in een string.
+
+Ten slotte voegen we de string toe aan ons HTML-element met behulp van het keyword 'innerHTML'.
+
+    function renderElements() {
+      let containerContent = "";
+
+      elements.forEach((element) => {
+        containerContent +=
+          "<div>" + element + "</div>";
+      });
+
+      document.getElementById("elementcontainer").innerHTML = containerContent;
+    }
+
+
+
 ## Een aparte javascriptfile
 
 Wanneer we javascript code schrijven in een HTML-pagina kan dit snel ophopen en onoverzichtelijk worden.
