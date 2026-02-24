@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SchoppingList</title>
+    <link rel="stylesheet" href="stylesheet.css" />
+  </head>
+  <body>
+    <h1>Boodschappenlijst</h1>
+
+    <div id="inputs">
+      <div>
+        <label for="nameInput">ingrediënt</label>
+        <input type="text" id="nameInput" name="nameInput" />
+      </div>
+      <div>
+        <label for="amountInput">aantal</label>
+        <input type="number" min="1" id="amountInput" name="amountInput" />
+      </div>
+      <div>
+        <label for="priceInput">prijs</label>
+        <input type="number" min="1" id="priceInput" name="priceInput" />
+      </div>
+      <button onclick="add()">Voeg Toe</button>
+    </div>
+    <div id="shoplist"></div>
+    <div>
+      <h3>Totaal</h3>
+      <p id="totalprice"></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
