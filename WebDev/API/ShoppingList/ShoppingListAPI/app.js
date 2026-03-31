@@ -8,6 +8,11 @@ const filepath = path.join(__dirname, "shoppingList.json");
 const app = express();
 const port = 8080;
 
+const data = [
+  { name: "appel", price: "3", amount: "3" },
+  { name: "peer", price: "1", amount: "2" },
+];
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -23,7 +28,15 @@ app.get("/list", (req, res) => {
 });
 
 app.post("/", (req, res) => {
-  console.log(req.body);
+  const data = JSON.stringify(req.body.lijst);
+
+  fs.writeFile("shoppingList.json", data, "utf8", (err) => {
+    if (err) {
+      console.error("Error writing file:", err);
+      return;
+    }
+    console.log("File written successfully!");
+  });
 });
 
 app.listen(port, () => {

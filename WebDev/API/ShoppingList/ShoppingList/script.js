@@ -52,7 +52,7 @@ function savelist() {
   fetch(APIurl, {
     method: "POST",
     body: JSON.stringify({
-      test: "test",
+      lijst,
     }),
     headers: {
       "Content-type": "application/json; charset=UTF-8",
