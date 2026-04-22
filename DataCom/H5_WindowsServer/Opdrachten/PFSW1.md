@@ -15,4 +15,4 @@ Wanneer je het werkstation PFSW1 correct hebt geïnstalleerd met een windows ver
     - Beschrijf aan de hand van één of meerdere screenshots en uitleg hoe je deze toevoegd aan het domein
     - Toon aan de hand van een screenshot en uitleg waar de PFSW1 wordt weergegeven op de PFSV1
 
-Stuur beide screenshots door naar Vital Vercleyen op Smartschool
+Stuur het word document door naar Vital Vercleyen op Smartschool
