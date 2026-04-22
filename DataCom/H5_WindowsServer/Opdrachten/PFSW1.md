@@ -11,7 +11,8 @@ Controleer:
 Wanneer je het werkstation PFSW1 correct hebt geïnstalleerd met een windows versie neem je volgende stappen:
 
     - Voeg PFSW1 toe aan het domein Poliforma.local
-    - Neem een screenshot op PFSV1 of PFSV2 dat bewijst dat het werkstation is toegevoegd aan het domein
-    - Neem een screenshot op PFSW1 dat bewijst dat het werkstation is toegevoegd aan het domein
+    - Maak een word document aan
+    - Beschrijf aan de hand van één of meerdere screenshots en uitleg hoe je deze toevoegd aan het domein
+    - Toon aan de hand van een screenshot en uitleg waar de PFSW1 wordt weergegeven op de PFSV1
 
 Stuur beide screenshots door naar Vital Vercleyen op Smartschool
