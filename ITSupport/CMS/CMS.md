@@ -22,4 +22,4 @@ Zoek een CMS met volgende vereisten:
 
 ## Content ophalen
 
-Zorg dat je de toegevoegd data kan ophalen aan de hand van een GET-request naar de API van jouw gekozen CMS
+Zorg dat je de toegevoegde data kan ophalen aan de hand van een GET-request naar de API van jouw gekozen CMS
