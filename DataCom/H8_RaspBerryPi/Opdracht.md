@@ -15,6 +15,10 @@ Wat jullie juist maken mag je volledig zelf kiezen maar er zijn een aantal minim
 
 Om van start te gaan met jullie project wil ik dat jullie eerst en vooral goed nadenken over wat jullie nodig hebben en welke technologiën jullie gaan gebruiken.
 
+Shrijf een document uit met een korte omschrijving van jullie eindproduct.
+Noteer ook welke stappen jullie zullen ondernemen om het eindproduct te bereiken.
+Denk goed na over welke technologiën jullie gaan gebruiken en welke hardware jullie nodig hebben, plaats dit ook in het document.
+
 ## Ideeën
 
 Hier zijn een aantal ideeën die je kan gebruiken om je project te starten.
